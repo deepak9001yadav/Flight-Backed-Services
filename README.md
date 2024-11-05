@@ -9,7 +9,7 @@
 ```
 {
   "development": {
-    "username": "Your_db_Name",
+    "username": "Your_DB_Name",
     "password": "Your_Db_Passowrd",
     "database": "Flights_Search_DB_DEV",
     "host": "127.0.0.1",
