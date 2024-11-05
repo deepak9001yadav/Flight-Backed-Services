@@ -1,4 +1,4 @@
-# Welcome tp Flights Service
+# Welcome to Flights Service
 
 ## Project Setup
 
