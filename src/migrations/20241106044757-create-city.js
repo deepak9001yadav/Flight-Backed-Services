@@ -11,8 +11,11 @@ module.exports = {
       },
       name: {
         type: Sequelize.STRING,
-        allowNull: false
-        
+        allowNull: false,   // This Means name should never be NULL.
+        unique : true
+                                            
+
+
       },
       createdAt: {
         allowNull: false,
